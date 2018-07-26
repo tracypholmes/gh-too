@@ -1,17 +1,106 @@
 ---
 bg: "businessheadshotcrop.jpg"
 layout: page
-title: "About"
-crawlertitle: "Gina Helfrich, Ph.D. | About"
-permalink: /about/
+title: "Experience"
+crawlertitle: "Gina Helfrich, Ph.D. | Experience"
+permalink: /experience/
 summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
-active: about
+active: experience
 ---
 
-Dr. Gina Helfrich is Communications Director and Program Manager for Diversity & Inclusion at NumFOCUS, a non-profit that supports better science through open code.
+Gina is a collaborative and visionary leader with strong skills in management, communications, and marketing. Her diverse experience spans business, tech, higher ed, and nonprofits.
 
-Gina is a dynamic and effective leader with experience driving communications and marketing efforts in a variety of professional settings, from higher education to nonprofits to technology. She is an expert in women's leadership and gender equity with over 12 years of experience working to advance diversity and inclusion. She values work that creates and sustains social good, with particular passions for education and gender equity. 
+**EDUCATION**  
+  
+**Emory University**, Atlanta, GA  
+**PhD in Philosophy**, Graduate Certificate in Women's Studies  
+  
+**Boston College**, Chestnut Hill, MA  
+**BA in Philosophy**, _Magna Cum Laude_  
+  
+  
+**PROFESSIONAL EXPERIENCE**  
+  
+**Communications Director and Program Manager for Diversity & Inclusion, [NumFOCUS](http://numfocus.org/)** (February 2017 – present)  
+501(c)(3) nonprofit promoting better science through open code.  
+  
+**Independent Consultant** (June 2015 – present)  
+  
+**Co-Founder, [recruitHER](http://www.recruither.io/)** (July 2015 – July 2016)  
+A women-owned recruiting and consulting firm committed to connecting diverse talent with opportunities in the tech industry.  
+  
+**Communications Director, [NumFOCUS](http://numfocus.org)** (July 2015 – April 2016)  
+501(c)(3) nonprofit promoting better science through open code.  
+  
+**Lead Analyst, [EvoSure](http://evosure.com/)** (March 2014 – March 2015)  
+B2B web technology startup focused on the commercial insurance industry.  
+  
+**Director (** July 2011 – Feb. 2014)  
+**Assistant Director** ( Jan. 2010 – June 2011)  
+**[Harvard College Women’s Center](http://hcwc.fas.harvard.edu/), Harvard University**  
+Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus.  
+  
+**Committee Service at Harvard**
 
-Gina has always had an entrepreneurial spirit. With the exception of her promotion to Director at the Harvard College Women's Center, she has been the first person to hold every full-time professional position she has occupied. In July 2015, Gina co-founded [recruitHER](http://www.recruither.io/), a women-owned recruiting & consulting firm committed to making the tech industry more inclusive and diverse. The marketing strategy Gina developed and executed for recruitHER attracted national attention, including feature stories in both [Austin Monthly](http://www.austinmonthly.com/AM/February-2016/Women-We-Love-Gina-Helfrich-Ashley-Doyal/) and [Austin Woman](http://www.austinwomanmagazine.com/articles/now-hiring-diversity) magazines, a talk at [SXSW](http://schedule.sxsw.com/2016/events/event_PP51520), and an interview on the [Stuff Mom Never Told You](http://www.stuffmomnevertoldyou.com/podcasts/spill-your-salary-secrets/) podcast. Gina is a frequent speaker and was [invited to speak](http://ginahelfrich.com/thoughtleadership.html) at the 2016 Texas Conference for Women. 
+*   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
+*   Committee on Degrees in Women’s, Gender, and Sexuality Studies (WGSS) Standing Committee, 2012–2014
+*   WGSS Tutorial Board, 2010–2014
+*   Faculty of Arts and Sciences Diversity Committee, 2011–2014
+*   Office of Student Life Student Organization Recognition Committee, 2011–2014
+*   Harvard University Health Services/College Committee on Student Health, 2010–2014
+*   Dean of Harvard College’s Strategic Planning Committee on Excellence in Undergraduate Teaching and Learning, Feb.–Dec. 2012
+*   Harvard University Women in Business Advisory Board, 2011–2012
+*   Harvard College Board of Freshman Advisers, Fall 2010–Spring 2012
 
-Gina lives in Austin, Texas, where she enjoys swing dancing, rock climbing, and improv comedy.
+  
+  
+**VOLUNTEER EXPERIENCE**  
+  
+**Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 – June 2017)  
+A solution-oriented group for people of all genders, providing actionable resources to combat sexism and support the retention and leadership of women in the tech industry in Austin.  
+  
+**Co-Chair, Women’s Centers Committee, Governing Council (** Nov. 2013 – Nov. 2015)  
+**Co-Chair, Women’s Centers Pre-Conference (** Nov. 2010 – Dec. 2012)  
+**[National Women's Studies Association (NWSA)](http://www.nwsa.org/)**  
+Annual conference for over 100 women's center professionals.  
+  
+**Founder and Coordinator** , **New England Women’s Centers Conference** (Feb. – Nov. 2010)  
+Annual professional development conference for university women's center staff.  
+  
+  
+**AWARDS & CERTIFICATIONS**  
+  
+**PMP Certification, Project Management Institute**, License No. 1829020  
+  
+**Fly-In, [Austin Startup Week](http://atxstartupweek.com)** 2013  
+One of ten people chosen to be flown in as special guests for the inaugural Austin Startup Week.  
+  
+  
+**TEACHING EXPERIENCE**  
+  
+**Lecturer** , **[Committee on Degrees in Studies of Women, Gender, and Sexuality, Harvard University](http://wgs.fas.harvard.edu/)**
+
+*   Studies of Women, Gender, and Sexuality 1466: Virtue, Vice and Everyday Life
+*   Studies of Women, Gender, and Sexuality S-43s: Gender, Race, and Ethics in the Twenty-First Century (Summer Seminar and Freshman Seminar)
+
+  
+**Adjunct Instructor** , **[Department of Philosophy, Morehouse College](http://www.morehouse.edu/academics/phil/)**
+
+*   PHIL 201: Introduction to Philosophy (two sections)
+
+  
+**[Department of Philosophy, Emory University](http://philosophy.emory.edu/home/index.html)**  
+**Instructor**
+
+*   Introduction to Philosophy
+
+**Teaching Associate**
+
+*   History of Western Philosophy I
+
+**Teaching Assistant**
+
+*   History of Western Philosophy I
+*   Water: In Science, Philosophy, and Literature
+*   History of Western Philosophy II
+*   Candler School of Theology, Christian Ethics
