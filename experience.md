@@ -4,7 +4,7 @@ layout: page
 title: "Experience"
 crawlertitle: "Gina Helfrich, Ph.D. | Experience"
 permalink: /experience/
-summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
+# summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
 active: experience
 ---
 

@@ -4,7 +4,7 @@ layout: page
 title: "Thought Leadership"
 crawlertitle: "Gina Helfrich, Ph.D. | Thought Leadership"
 permalink: /thoughtleadership/
-summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
+# summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
 active: thought leadership
 ---
 
