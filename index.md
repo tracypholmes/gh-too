@@ -4,9 +4,11 @@ layout: default
 title: "Gina Helfrich, Ph.D."
 crawlertitle: "Gina Helfrich, Ph.D. | About"
 # permalink: /about/
-summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
+# summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
 # active: about
 ---
+
+<h4 align="center">Communications, Diversity & Inclusion, Women in Tech & Business</h4>  
 
 Dr. Gina Helfrich is Communications Director and Program Manager for Diversity & Inclusion at NumFOCUS, a non-profit that supports better science through open code.
 
